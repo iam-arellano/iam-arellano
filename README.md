@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Raymond Arellano  
+# Hi there 👋 I'm Raemond 
 
 I have experience in system engineering and I enjoy working with cloud platforms, automation, and DevOps tools.  
 I use this GitHub to share my practice projects and document what I learn along the way.  
